@@ -1,0 +1,1 @@
+Перед запуском сделать миграции командой update-database в Package Manager Console
